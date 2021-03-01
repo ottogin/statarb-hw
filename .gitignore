@@ -1,0 +1,12 @@
+# Ignore service directories
+data/*
+thirdparty/*
+.metals
+.vscode
+
+# Ignore compiled files
+*.o
+sourcing/sourcing
+
+# Exception for .gitkeep
+!.gitkeep
