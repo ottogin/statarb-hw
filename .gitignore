@@ -1,8 +1,11 @@
+playground.ipynb
+
 # Ignore service directories
 data/*
 thirdparty/*
 .metals
 .vscode
+.ipynb_checkpoints/
 
 # Ignore compiled files
 *.o
